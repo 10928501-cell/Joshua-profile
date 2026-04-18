@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Joshua Attipoe</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet"/>
+</head>
+<body>
+
+  <div class="noise"></div>
+
+  <header>
+    <div class="header-inner">
+      <p class="label">Personal Profile</p>
+      <h1>Joshua<br><span class="accent">Attipoe</span></h1>
+      <p class="tagline">Developer · Creator · Problem Solver</p>
+    </div>
+    <div class="header-shape"></div>
+  </header>
+
+  <main>
+
+    <section class="about">
+      <div class="section-label">01 — About Me</div>
+      <div class="about-grid">
+        <div class="about-text">
+          <p>
+            Hi, I'm <strong>Joshua Attipoe</strong> — a passionate and curious individual with a love for technology, creativity, and continuous learning. I thrive on turning ideas into reality, whether that's through writing clean code, designing thoughtful solutions, or collaborating with others to build something meaningful.
+          </p>
+          <p>
+            I believe in the power of the internet to connect people and create opportunities, and I'm always looking for new ways to grow my skills and contribute to projects that matter.
+          </p>
+        </div>
+        <div class="about-card">
+          <div class="initials">JA</div>
+          <p class="card-name">Joshua Attipoe</p>
+          <p class="card-role">Tech Enthusiast</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="skills">
+      <div class="section-label">02 — Skills &amp; Hobbies</div>
+      <div class="skills-grid">
+        <div class="skill-card">
+          <span class="skill-icon">💻</span>
+          <h3>Web Development</h3>
+          <p>Building and styling websites using HTML, CSS, and modern tools.</p>
+        </div>
+        <div class="skill-card">
+          <span class="skill-icon">☁️</span>
+          <h3>Cloud Computing</h3>
+          <p>Exploring cloud platforms and deployment services like GitHub Pages.</p>
+        </div>
+        <div class="skill-card">
+          <span class="skill-icon">🧩</span>
+          <h3>Problem Solving</h3>
+          <p>Breaking down complex challenges into manageable, elegant solutions.</p>
+        </div>
+        <div class="skill-card">
+          <span class="skill-icon">📚</span>
+          <h3>Reading &amp; Research</h3>
+          <p>Staying up to date with technology trends and expanding knowledge daily.</p>
+        </div>
+        <div class="skill-card">
+          <span class="skill-icon">🎵</span>
+          <h3>Music</h3>
+          <p>Listening and exploring different genres as a source of inspiration.</p>
+        </div>
+        <div class="skill-card">
+          <span class="skill-icon">🤝</span>
+          <h3>Collaboration</h3>
+          <p>Working well in teams and contributing positively to group projects.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="contact">
+      <div class="section-label">03 — Contact</div>
+      <h2>Let's Connect</h2>
+      <p>Have a question or want to work together? Feel free to reach out.</p>
+      <a href="mailto:Joshattipoe51@gmail.com" class="email-btn">
+        <span>✉</span> Joshattipoe51@gmail.com
+      </a>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>© 2026 Joshua Attipoe. Hosted on <strong>GitHub Pages</strong>.</p>
+  </footer>
+
+</body>
+</html>
